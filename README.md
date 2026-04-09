@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-size: 35px; font-family: 'Sama Devanagari';"> CUBIT Dataset
+<h1 style="text-align: center; font-size: 35px; font-family: 'Sama Devanagari';"> CUBIT-Det Dataset
 </h1>
 
 <h3 style="text-align: center; font-size: 28px; font-family: 'Sama Devanagari';"> 
