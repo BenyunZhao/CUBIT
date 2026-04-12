@@ -29,7 +29,8 @@ Dataset can be available at:
 <a href="https://mycuhk-my.sharepoint.com/:f:/g/personal/1155145791_link_cuhk_edu_hk/Erp8qLcMospKnf2d7rN4BwEBEpaWDf80YvMGeIxjWmbZlg?e=THmVvp" style="color: white; text-decoration: none;">OneDrive</a> 
 </button> (Password of Onedrive link: cubit-det), 
 <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
-<a href="https://pan.baidu.com/s/1A662ownio29qc0S239nP1Q?pwd=bvs6" style="color: white; text-decoration: none;">BaiduNet</a> 
+<a href="https://pan.baidu.com/s/1A662ownio29qc0S239nP1Q?pwd=bvs6" style="color: white; text-decoration: none;">BaiduNet</a>  
+More information can access at our benchmark challenges page: https://benyunzhao.github.io/CUBIT-Dataset
 </button>
 
 
