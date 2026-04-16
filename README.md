@@ -15,14 +15,15 @@ High-Resolution Infrastructure Defect Detection Dataset Sourced by Unmanned Syst
 More information about dataset extension and can access at our benchmark challenges page: https://benyunzhao.github.io/CUBIT-Dataset
 </div>
 
-Dataset can be available at: 
-* <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
+
+CUBIT-Det dataset can be available at: 
+
+<button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
+<a href="https://pan.baidu.com/s/1A662ownio29qc0S239nP1Q?pwd=bvs6" style="color: white; text-decoration: none;">BaiduNet</a> 
+</button>
+<button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
 <a href="https://mycuhk-my.sharepoint.com/:f:/g/personal/1155145791_link_cuhk_edu_hk/Erp8qLcMospKnf2d7rN4BwEBEpaWDf80YvMGeIxjWmbZlg?e=THmVvp" style="color: white; text-decoration: none;">OneDrive</a> 
 </button> (Password of Onedrive link: cubit-det)
-
-* <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
-<a href="https://pan.baidu.com/s/1A662ownio29qc0S239nP1Q?pwd=bvs6" style="color: white; text-decoration: none;">BaiduNet</a>  
-</button>
 
 
 <div style="text-align: center; font-family: 'American Typewriter'; font-weight: 400; "> 
@@ -52,7 +53,7 @@ If you find this project helpful for your research, please consider citing our p
 Any questions or academic discussion, please contact me at: byzhao@mae.cuhk.edu.hk
 
 ```BibTex
-@article{ZHAO2024105405,
+@article{cubit-det,
 title = {High-resolution infrastructure defect detection dataset sourced by unmanned systems and validated with deep learning},
 journal = {Automation in Construction},
 volume = {163},
