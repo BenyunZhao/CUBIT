@@ -6,31 +6,22 @@ High-Resolution Infrastructure Defect Detection Dataset Sourced by Unmanned Syst
 </h3>
 
 <h3 style="text-align: center; font-size: 21px; font-family: 'Sama Devanagari';"> 
-Automation in Construction 2024
+<button style="background-color: #000000; color: white;margin-centre: 15px; padding: 10px 15px;border: none; border-radius: 5px;">
+<a href="https://doi.org/10.1016/j.autcon.2024.105405" style="color: white; text-decoration: none;">Automation in Construction 2024</a>
+</button>
 </h3>
 
-
 <div style=" text-align: center; font-size: 21px;">
-Benyun Zhao<sup>1</sup>, Xunkuai Zhou<sup>2,1</sup>, Guidong Yang<sup>1</sup>, Junjie Wen<sup>1</sup>, Jihan Zhang<sup>1</sup>, Jia Dou<sup>1</sup>, Li Guang<sup>1</sup>, Xi Chen<sup>1</sup>, and <br> <a href="http://www.mae.cuhk.edu.hk/~bmchen/">Ben M. Chen</a><sup>1</sup> IEEE Fellow
-</div>
-<div  style="text-align: center; font-size: 18px;" >
-1.Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong <br>   
-2.School of Electronics and Information Engineering,Tongji University
-</div>
-
-<div style="display: flex; flex-direction: row; margin: 10px auto; justify-content: center" > 
-<button style="background-color: #000000; color: white;margin-centre: 15px; padding: 10px 15px;border: none; border-radius: 5px;">
-<a href="https://doi.org/10.1016/j.autcon.2024.105405" style="color: white; text-decoration: none;">Paper from Automation in Construction</a>
-</button>
+More information about dataset extension and can access at our benchmark challenges page: https://benyunzhao.github.io/CUBIT-Dataset
 </div>
 
 Dataset can be available at: 
-<button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
+* <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
 <a href="https://mycuhk-my.sharepoint.com/:f:/g/personal/1155145791_link_cuhk_edu_hk/Erp8qLcMospKnf2d7rN4BwEBEpaWDf80YvMGeIxjWmbZlg?e=THmVvp" style="color: white; text-decoration: none;">OneDrive</a> 
-</button> (Password of Onedrive link: cubit-det), 
-<button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
+</button> (Password of Onedrive link: cubit-det)
+
+* <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
 <a href="https://pan.baidu.com/s/1A662ownio29qc0S239nP1Q?pwd=bvs6" style="color: white; text-decoration: none;">BaiduNet</a>  
-More information can access at our benchmark challenges page: https://benyunzhao.github.io/CUBIT-Dataset
 </button>
 
 
