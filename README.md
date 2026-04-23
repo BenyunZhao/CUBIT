@@ -19,8 +19,13 @@ More information about dataset extension and can access at our benchmark challen
 CUBIT-Det dataset can be available at: 
 
 <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
-<a href="https://pan.baidu.com/s/1A662ownio29qc0S239nP1Q?pwd=bvs6" style="color: white; text-decoration: none;">BaiduNet</a> 
+<a href="https://pan.baidu.com/s/18OqIvEK6fyCLTSTuF-S8Kg" style="color: white; text-decoration: none;">BaiduNet</a> 
+</button> (Password of BaiduNet: 2heq)
+
+<button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
+<a href="https://drive.google.com/drive/folders/1XlWjF7k7I0BEaYwtr68vCMx5D3SWmW_x?usp=sharing" style="color: white; text-decoration: none;">Google Drive</a> 
 </button>
+
 <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
 <a href="https://mycuhk-my.sharepoint.com/:f:/g/personal/1155145791_link_cuhk_edu_hk/Erp8qLcMospKnf2d7rN4BwEBEpaWDf80YvMGeIxjWmbZlg?e=THmVvp" style="color: white; text-decoration: none;">OneDrive</a> 
 </button> (Password of Onedrive link: cubit-det)
