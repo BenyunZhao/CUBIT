@@ -15,9 +15,9 @@ High-Resolution Infrastructure Defect Detection Dataset Sourced by Unmanned Syst
 More information about dataset extension and can access at our benchmark challenges page: https://benyunzhao.github.io/CUBIT-Dataset
 </div>
 
-
+<div style=" text-align: center; font-size: 21px;">
 CUBIT-Det dataset can be available at: 
-
+</div>
 <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
 <a href="https://drive.google.com/drive/folders/1XlWjF7k7I0BEaYwtr68vCMx5D3SWmW_x?usp=sharing" style="color: white; text-decoration: none;">Google Drive; </a> 
 </button>
