@@ -19,13 +19,12 @@ More information about dataset extension and can access at our benchmark challen
 CUBIT-Det dataset can be available at: 
 </div>
 
-
 <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
 <a href="https://pan.baidu.com/s/18OqIvEK6fyCLTSTuF-S8Kg" style="color: white; text-decoration: none;">BaiduNet; </a> 
 </button> (Password of BaiduNet: 2heq)
 
 <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
-<a href="https://drive.google.com/drive/folders/1XlWjF7k7I0BEaYwtr68vCMx5D3SWmW_x?usp=sharing" style="color: white; text-decoration: none;">Google Drive; </a> 
+<a href="https://drive.google.com/drive/folders/1XlWjF7k7I0BEaYwtr68vCMx5D3SWmW_x?usp=sharing" style="color: white; text-decoration: none;">Google Drive </a> 
 </button>
 
 
