@@ -51,7 +51,7 @@ Credits also to <a href="http://www.yjhuang.net/" style="color: white; text-deco
 ## Citation
 If you find this project helpful for your research, please consider citing our paper and giving a ⭐.
 
-Any questions or academic discussion, please contact me at: byzhao@mae.cuhk.edu.hk
+Any questions or academic discussion, please contact me at: benyunzhao@link.cuhk.edu.hk
 
 ```BibTex
 @article{cubit-det,
