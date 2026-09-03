@@ -48,6 +48,11 @@ This work was supported by the InnoHK of the Government of the Hong Kong Special
 Credits also to <a href="http://www.yjhuang.net/" style="color: white; text-decoration: none;">Yijun Huang</a> for constructing the project page.
 
 
+## License
+The CUBIT-Det dataset, including its images, annotations, and metadata distributed through the download links above, is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+When using the dataset in academic work, please cite the CUBIT-Det paper below.
+
 ## Citation
 If you find this project helpful for your research, please consider citing our paper and giving a ⭐.
 
